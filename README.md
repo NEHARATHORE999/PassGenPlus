@@ -9,6 +9,7 @@ Features
 5. Pattern Avoidance: Detects weak patterns like repeated or sequential characters.
    
 How It Works:
+
 1.Generate Password: Randomly generates a secure password.
 
 2. Assess Strength: Checks password strength and provides feedback (Weak, Moderate, Strong) with improvement tips.
